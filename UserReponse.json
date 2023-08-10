@@ -1,1 +1,374 @@
-[]
+[
+  [
+    {
+      "reponse": [
+        "non"
+      ],
+      "EssaiId": "29e4142d-e69e-4a02-b909-2de1689cdb1e",
+      "QuestionRank": 1,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Manque de protection des données à caractère personnel"
+      ],
+      "EssaiId": "29e4142d-e69e-4a02-b909-2de1689cdb1e",
+      "QuestionRank": 13,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Homme"
+      ],
+      "EssaiId": "29e4142d-e69e-4a02-b909-2de1689cdb1e",
+      "QuestionRank": 14,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[20-24] ans"
+      ],
+      "EssaiId": "29e4142d-e69e-4a02-b909-2de1689cdb1e",
+      "QuestionRank": 15,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Cadre supérieur"
+      ],
+      "EssaiId": "29e4142d-e69e-4a02-b909-2de1689cdb1e",
+      "QuestionRank": 16,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Baccalauréat"
+      ],
+      "EssaiId": "29e4142d-e69e-4a02-b909-2de1689cdb1e",
+      "QuestionRank": 17,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[1000-1500[ TND"
+      ],
+      "EssaiId": "29e4142d-e69e-4a02-b909-2de1689cdb1e",
+      "QuestionRank": 18,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Une carte de la poste"
+      ],
+      "EssaiId": "29e4142d-e69e-4a02-b909-2de1689cdb1e",
+      "QuestionRank": 19,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": "Allemagne",
+      "EssaiId": "29e4142d-e69e-4a02-b909-2de1689cdb1e",
+      "QuestionRank": 20,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    }
+  ],
+  [
+    {
+      "reponse": [
+        "oui"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 1,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Plusieurs fois par semaine"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 2,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Produits alimentaires"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 3,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[100-150[ TND"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 4,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Des plateformes de deals",
+        "Places de marché (regroupant plusieurs vendeurs)",
+        "Des plateformes d'annonces"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 5,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Smart TV",
+        "Tablette"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 6,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Paiement à la commande"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 7,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Carte de la poste",
+        "Carte"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 10,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Par poste (bureau de poste)",
+        "Virement bancaire"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 11,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Flexibilité, personnalisation",
+        "Transparence des conditions de ventes"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 12,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Les achats en ligne sont coûteux (Coûts associés aux achats en ligne)"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 13,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Homme"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 14,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[20-24] ans"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 15,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Cadre supérieur"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 16,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Baccalauréat"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 17,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[1000-1500[ TND"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 18,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Une carte de la poste"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 19,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": "Allemagne",
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 20,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    }
+  ],
+  [
+    {
+      "reponse": [
+        "oui"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 1,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Plusieurs fois par semaine"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 2,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Produits alimentaires"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 3,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[100-150[ TND"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 4,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Des plateformes de deals",
+        "Places de marché (regroupant plusieurs vendeurs)",
+        "Des plateformes d'annonces"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 5,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Smart TV",
+        "Tablette"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 6,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Paiement à la commande"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 7,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Carte de la poste",
+        "Carte"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 10,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Par poste (bureau de poste)",
+        "Virement bancaire"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 11,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Flexibilité, personnalisation",
+        "Transparence des conditions de ventes"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 12,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Les achats en ligne sont coûteux (Coûts associés aux achats en ligne)"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 13,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Homme"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 14,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[20-24] ans"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 15,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Cadre supérieur"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 16,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Baccalauréat"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 17,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[1000-1500[ TND"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 18,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Une carte de la poste"
+      ],
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 19,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": "Allemagne",
+      "EssaiId": "4df7642c-ca9f-4c1d-b5b8-3f235d6be5f1",
+      "QuestionRank": 20,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    }
+  ]
+]

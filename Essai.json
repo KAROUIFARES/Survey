@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "dateEssai": "2023-08-10T09:34:08.780Z",
+    "QuestionnaireId": "64ac5d2538f56ce576966e92",
+    "_id": "35ea081b-6b17-4450-9b8c-2b2a4248b8e7",
+    "UserEmail": ""
+  },
+  {
+    "dateEssai": "2023-08-10T09:34:11.734Z",
+    "QuestionnaireId": "64ac5d2538f56ce576966e92",
+    "_id": "47b95e1f-dcd3-496d-9505-c0b5593ef0f3",
+    "UserEmail": ""
+  },
+  {
+    "dateEssai": "2023-08-10T09:34:30.598Z",
+    "QuestionnaireId": "64ac5d2538f56ce576966e92",
+    "_id": "39d11839-03de-42c8-8268-2a8dc07a2cfd",
+    "UserEmail": ""
+  }
+]

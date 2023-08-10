@@ -280,7 +280,15 @@ app.put('/InsertUserEmail/:id', (req, res) => {
   });
 });
 
-
+app.get('/readDashBordData', (req, res) => {
+  readDashbordData((err, jsonData) => {
+    if (err) {
+      res.status(500).json({ error: 'Error reading from the file', err });
+    } else {
+      res.json(jsonData);
+    }
+  });
+});
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);

@@ -20,7 +20,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 14.09375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 4,
+    "leftColumn": 6,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -31,7 +31,7 @@
     "text": "©2022 <b>Tunisia Survey<\/b>. Tous droits réservés.",
     "key": "6u5oevix38",
     "isDeprecated": false,
-    "rightColumn": 22,
+    "rightColumn": 24,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "umvhx1qrf7",

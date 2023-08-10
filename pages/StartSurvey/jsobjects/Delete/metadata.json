@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Delete",
+    "pageId": "StartSurvey",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "StartSurvey_Delete",
+  "deleted": false,
+  "gitSyncId": "64b128b40549840a41280c73_64b3cf31e063ff33303ac572"
+}

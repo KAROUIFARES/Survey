@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "IsEqual",
+    "pageId": "StartSurvey",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "StartSurvey_IsEqual",
+  "deleted": false,
+  "gitSyncId": "64b128b40549840a41280c73_64b1a6e10549840a41280d10"
+}

@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Sinario",
+    "pageId": "StartSurvey",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "StartSurvey_Sinario",
+  "deleted": false,
+  "gitSyncId": "64b128b40549840a41280c73_64b1561b0549840a41280cfe"
+}

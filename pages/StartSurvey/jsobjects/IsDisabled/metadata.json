@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "IsDisabled",
+    "pageId": "StartSurvey",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "StartSurvey_IsDisabled",
+  "deleted": false,
+  "gitSyncId": "64c0d586e017850865667a62_64c16e72133a015060d80b69"
+}

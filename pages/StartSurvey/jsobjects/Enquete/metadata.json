@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Enquete",
+    "pageId": "StartSurvey",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "StartSurvey_Enquete",
+  "deleted": false,
+  "gitSyncId": "64abccadf234792d720dfb7f_64ac08c733b47268626f2cc2"
+}

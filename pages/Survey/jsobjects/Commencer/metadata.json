@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Commencer",
+    "pageId": "Survey",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Survey_Commencer",
+  "deleted": false,
+  "gitSyncId": "64b128b40549840a41280c73_64b12cea0549840a41280ccd"
+}

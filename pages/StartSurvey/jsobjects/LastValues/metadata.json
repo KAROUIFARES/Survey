@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "LastValues",
+    "pageId": "StartSurvey",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "StartSurvey_LastValues",
+  "deleted": false,
+  "gitSyncId": "64b128b40549840a41280c73_64b4fb0be7b76725c4220d99"
+}

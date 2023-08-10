@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "CleanStore",
+    "pageId": "Survey",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Survey_CleanStore",
+  "deleted": false,
+  "gitSyncId": "64b726c309151236b5600f8e_64b9173821f63c33b4b6edde"
+}

@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "StoreData",
+    "pageId": "StartSurvey",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "StartSurvey_StoreData",
+  "deleted": false,
+  "gitSyncId": "64b128b40549840a41280c73_64b149a70549840a41280cf2"
+}

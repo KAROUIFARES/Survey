@@ -1,1 +1,612 @@
-[]
+[
+  [
+    {
+      "reponse": [
+        "non"
+      ],
+      "EssaiId": "77265333-d571-4b30-bbc1-1af9eb6a8eab",
+      "QuestionRank": 1,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Manque de protection des consommateurs (qualité, droit à la réparation et dommage, droit à la garantie, etc.)",
+        "Manque de protection des données à caractère personnel",
+        "L'offre de biens et de services en ligne est insuffisante"
+      ],
+      "EssaiId": "77265333-d571-4b30-bbc1-1af9eb6a8eab",
+      "QuestionRank": 13,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Homme"
+      ],
+      "EssaiId": "77265333-d571-4b30-bbc1-1af9eb6a8eab",
+      "QuestionRank": 14,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[15-19] ans"
+      ],
+      "EssaiId": "77265333-d571-4b30-bbc1-1af9eb6a8eab",
+      "QuestionRank": 15,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Profession libérale"
+      ],
+      "EssaiId": "77265333-d571-4b30-bbc1-1af9eb6a8eab",
+      "QuestionRank": 16,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Baccalauréat"
+      ],
+      "EssaiId": "77265333-d571-4b30-bbc1-1af9eb6a8eab",
+      "QuestionRank": 17,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "< 500 TND"
+      ],
+      "EssaiId": "77265333-d571-4b30-bbc1-1af9eb6a8eab",
+      "QuestionRank": 18,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Aucun moyen",
+        "Un chéquier"
+      ],
+      "EssaiId": "77265333-d571-4b30-bbc1-1af9eb6a8eab",
+      "QuestionRank": 19,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": "Canada",
+      "EssaiId": "77265333-d571-4b30-bbc1-1af9eb6a8eab",
+      "QuestionRank": 20,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    }
+  ],
+  [
+    {
+      "reponse": [
+        "oui"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 1,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Plusieurs fois par semaine"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 2,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Droguerie et produits de nettoyage",
+        "Produits paramédicaux",
+        "Recharge Téléphone",
+        "Prestations et produits de beauté"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 3,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[50-100[ TND"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 4,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Des plateformes de deals",
+        "Médias sociaux (Page/groupe Facebook, Instagram, WhatsApp, Messenger, etc.)"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 5,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Smartphone",
+        "Ordinateur (bureau, portable)"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 6,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Paiement à la commande"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 7,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Carte de la poste",
+        "Mandat postal"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 10,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Virement bancaire",
+        "Par poste (bureau de poste)"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 11,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Transparence des conditions de ventes",
+        "Protection des données personnelles"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 12,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "L'offre de biens et de services en ligne est insuffisante",
+        "Faible sécurisation des systèmes de paiement"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 13,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Femme"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 14,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[15-19] ans"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 15,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Profession libérale"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 16,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Licences et ou technicien supérieur"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 17,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[500-1000[ TND"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 18,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Aucun moyen",
+        "Un chéquier"
+      ],
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 19,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": "Canada",
+      "EssaiId": "d90597b6-2734-49eb-bfe6-f42401a390e7",
+      "QuestionRank": 20,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    }
+  ],
+  [
+    {
+      "reponse": [
+        "non"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 1,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Les solutions de paiements ne sont pas offertes par tous les marchands",
+        "L'achat en ligne est difficile et compliqué",
+        "L'offre de biens et de services en ligne est insuffisante"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 13,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Femme"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 14,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[30-39] ans"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 15,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Cadre supérieur"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 16,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Plus que Master (Sup à Bac +5)"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 17,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[1500-2000[ TND"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 18,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Aucun moyen",
+        "Une carte de la poste"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 19,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": "Belgique",
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 20,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    }
+  ],
+  [
+    {
+      "reponse": [
+        "non"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 1,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Les solutions de paiements ne sont pas offertes par tous les marchands",
+        "L'achat en ligne est difficile et compliqué",
+        "L'offre de biens et de services en ligne est insuffisante"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 13,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Femme"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 14,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[30-39] ans"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 15,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Cadre supérieur"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 16,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Plus que Master (Sup à Bac +5)"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 17,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[1500-2000[ TND"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 18,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Aucun moyen",
+        "Une carte de la poste"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 19,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": "Belgique",
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 20,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    }
+  ],
+  [
+    {
+      "reponse": [
+        "non"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 1,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Les solutions de paiements ne sont pas offertes par tous les marchands",
+        "L'achat en ligne est difficile et compliqué",
+        "L'offre de biens et de services en ligne est insuffisante"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 13,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Femme"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 14,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[30-39] ans"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 15,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Cadre supérieur"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 16,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Plus que Master (Sup à Bac +5)"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 17,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[1500-2000[ TND"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 18,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Aucun moyen",
+        "Une carte de la poste"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 19,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Belgique"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 20,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    }
+  ],
+  [
+    {
+      "reponse": [
+        "non"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 1,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Les solutions de paiements ne sont pas offertes par tous les marchands",
+        "L'achat en ligne est difficile et compliqué",
+        "L'offre de biens et de services en ligne est insuffisante"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 13,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Femme"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 14,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[30-39] ans"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 15,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Cadre supérieur"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 16,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Plus que Master (Sup à Bac +5)"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 17,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[1500-2000[ TND"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 18,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Aucun moyen",
+        "Une carte de la poste"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 19,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Belgique"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 20,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    }
+  ],
+  [
+    {
+      "reponse": [
+        "non"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 1,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Les solutions de paiements ne sont pas offertes par tous les marchands",
+        "L'achat en ligne est difficile et compliqué",
+        "L'offre de biens et de services en ligne est insuffisante"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 13,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Femme"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 14,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[30-39] ans"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 15,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Cadre supérieur"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 16,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Plus que Master (Sup à Bac +5)"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 17,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "[1500-2000[ TND"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 18,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Aucun moyen",
+        "Une carte de la poste"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 19,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    },
+    {
+      "reponse": [
+        "Belgique"
+      ],
+      "EssaiId": "fc282d87-2518-4b6d-b02d-f4b973f75df2",
+      "QuestionRank": 20,
+      "QuestionnaireId": "64ac5d2538f56ce576966e92"
+    }
+  ]
+]

@@ -69,7 +69,7 @@ const readUserReponse = (callback) => {
   });
 };
 
-function readDashbordData(callback) {
+const readDashbordData=(callback) =>{
   fs.readFile(DashbordData, 'utf8', (err, data) => {
     if (err) {
       if (err.code === 'ENOENT') {
@@ -90,7 +90,7 @@ function readDashbordData(callback) {
   });
 }
 
-function saveDashbordData(data, callback) {
+const saveDashbordData=(data, callback)=>{
     readDashbordData((readErr, dashboardData) => {
       if (readErr) {
         console.error('Error reading dashboard data:', readErr);
@@ -106,7 +106,6 @@ function saveDashbordData(data, callback) {
   
         if (foundData) {
           foundData.question.nbreponse = (foundData.question.nbreponse || 0) + 1;
-  
           for (const responseLabel of item.reponse) {
             const foundResponse = foundData.response.find(
               (responseItem) => responseItem.Label === responseLabel
@@ -133,13 +132,7 @@ function saveDashbordData(data, callback) {
     });
   }
   
-readDashbordData((err, jsonData) => {
-  if (err) {
-    console.error('Error:', err);
-  } else {
-    console.log('Read data:', jsonData);
-  }
-});
+
 
 /**
  * Questionnaire API 
